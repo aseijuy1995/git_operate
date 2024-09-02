@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://git-scm.com/images/logos/1color-lightbg@2x.png" width="300"/></div>
+<div style="text-align:center"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.svg" width="300"/></div>
 
 # Git常見指令
 
